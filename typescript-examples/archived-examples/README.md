@@ -1,0 +1,2 @@
+This typescript code was written prior to me structuring the examples repo as a set of tests than can be ran. 
+This was ran as manually compiling typescript and subsequently running node against the .js file.
